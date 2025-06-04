@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "WhatsApp Baileys",
   "homepage": "https://github.com/RealXeuka/rocket-baileys",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RealXeuka/rocket-baileys.git"
+  },
+  "keywords": ["WhatsApp", "WebSocket", "Connection"],
   "license": "MIT",
   "author": "Tsm Xeuka",
   "dependencies": {
